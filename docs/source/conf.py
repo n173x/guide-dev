@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Mirai! Guide'
+# copyright = '2021, Graziella'
+author = 'Nitex'
 
 release = '0.1'
 version = '0.1.0'
